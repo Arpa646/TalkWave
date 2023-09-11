@@ -1,0 +1,9 @@
+installing
+npm init , npm install express , npm install dotenv,npm i nodemon
+
+1.require express and create express intance to use express
+ 2. use ,.env to hide your key
+
+
+user authentication
+1.
